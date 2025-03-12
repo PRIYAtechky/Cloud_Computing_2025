@@ -2,6 +2,10 @@
 
 This document provides a structured overview of **Cloud Computing**, covering its fundamental concepts, architecture, management, security, and emerging trends. It explores **cloud service models, deployment models, data management, and security concerns** while also discussing **real-world applications and research directions**.
 
+---
+
+
+
 ## **1. Cloud Computing Course - Overview**  
 An **introductory course** covering the **fundamentals of Cloud Computing**, its benefits, and real-world applications.  
 It explains how cloud technology enables **on-demand computing resources** and **scalability**.  
@@ -49,6 +53,11 @@ Explores **Docker Containers**, their role in **cloud environments**, and how th
 Explains how **Docker enables microservices architecture** for efficient cloud applications.  
 The video also demonstrates **container orchestration** with Kubernetes for scalable cloud solutions.  
 🔗 [YouTube Link](https://youtu.be/) *(Link to be updated)*  
+
+
+---
+
+
 
 ## **📍 Books & References**  
 
