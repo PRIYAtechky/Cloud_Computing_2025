@@ -46,7 +46,7 @@ The video also highlights **best practices for securing cloud environments** in 
 An introduction to **Mobile Cloud Computing**, explaining how **mobile devices leverage cloud infrastructure** for enhanced performance.  
 It discusses **offloading computing tasks to the cloud** to improve mobile device efficiency.  
 The video also explores **challenges like latency, connectivity, and security in mobile cloud computing**.  
-🔗 [YouTube Link](https://youtu.be/) *(Link to be updated)*  
+🔗 [YouTube Link](https://youtu.be/Mkid0fvGy4I)
 
 ## **8. Introduction to Docker Containers**  
 Explores **Docker Containers**, their role in **cloud environments**, and how they help in **application deployment**.  
