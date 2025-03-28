@@ -49,6 +49,12 @@ Explores the **models of cloud computing**, including **centralized, distributed
 Discusses how cloud paradigms impact **computing efficiency, scalability, and resource management**.  
 🔗 [YouTube Link](https://youtu.be/) *(Link to be updated)*  
 
+## **10. Cloud Migration - I**  
+Covers the **process of migrating applications, data, and workloads to the cloud**.  
+Explains **VM (Virtual Machine) Migration** techniques and their impact on performance.  
+Discusses **Cloud Migration Strategies**, including **Rehost (Lift-and-Shift), Refactor, Rearchitect, Rebuild, and Replace**.  
+🔗 [YouTube Link](https://youtu.be/) *(Link to be updated)*
+
 ---
 
 ## **📍 Books & References**  
