@@ -42,7 +42,7 @@ Explores **offloading computing tasks to the cloud** and its challenges.
 ## **8. Introduction to Docker Containers**  
 Covers **Docker Containers**, their use in **cloud environments**, and **application deployment**.  
 Explains how **Docker enables microservices architecture** for efficient cloud computing.  
-🔗 [YouTube Link](https://youtu.be/) *(Link to be updated)*  
+🔗 [YouTube Link](https://youtu.be/mVchrjoJKi0) 
 
 ## **9. Cloud Computing Paradigm**  
 Explores the **models of cloud computing**, including **centralized, distributed, and hybrid paradigms**.  
