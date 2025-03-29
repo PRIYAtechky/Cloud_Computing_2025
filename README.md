@@ -55,6 +55,12 @@ Explains **VM (Virtual Machine) Migration** techniques and their impact on perfo
 Discusses **Cloud Migration Strategies**, including **Rehost (Lift-and-Shift), Refactor, Rearchitect, Rebuild, and Replace**.  
 🔗 [YouTube Link](https://youtu.be/) *(Link to be updated)*
 
+## **11. Dew Computing**  
+Dew Computing extends cloud capabilities to local devices, enabling **efficient processing and data synchronization**.  
+It reduces **latency and dependency on constant internet access**, making it ideal for real-time applications.  
+This approach enhances **computing power at the edge while maintaining cloud connectivity for storage and backup**.  
+🔗 [YouTube Link](https://youtu.be/) *(Link to be updated)*  
+
 ---
 
 ## **📍 Books & References**  
