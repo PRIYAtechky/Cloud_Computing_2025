@@ -47,7 +47,7 @@ Explains how **Docker enables microservices architecture** for efficient cloud c
 ## **9. Cloud Computing Paradigm**  
 Explores the **models of cloud computing**, including **centralized, distributed, and hybrid paradigms**.  
 Discusses how cloud paradigms impact **computing efficiency, scalability, and resource management**.  
-🔗 [YouTube Link](https://youtu.be/) *(Link to be updated)*  
+🔗 [YouTube Link](https://youtu.be/r2NoM6nvknI)  
 
 ## **10. Cloud Migration - I**  
 Covers the **process of migrating applications, data, and workloads to the cloud**.  
