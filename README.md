@@ -9,7 +9,7 @@ Covers the **fundamentals of Cloud Computing**, including its benefits and appli
 Explains **on-demand computing resources, scalability, and cloud service models**.  
 🔗 [YouTube Link](https://www.youtube.com/watch?v=o9_QVS65WL0)  
 
-## **2. Cloud Architecture - Deployment Models**  
+## **2. Cloud Architecture**  
 Describes different **cloud deployment models** like **Public, Private, Hybrid, and Community Cloud**.  
 Discusses how deployment models impact **security, cost, and performance**.  
 🔗 [YouTube Link](https://youtu.be/N7hu7rfpQpo)  
@@ -29,12 +29,12 @@ Provides a detailed explanation of **Service Level Agreements (SLAs)**, their st
 Covers **metrics like response time, availability, and fault tolerance**.  
 🔗 [YouTube Link](https://youtu.be/2v-rBDxuTxA)  
 
-## **6. Cloud Security I**  
+## **6. Cloud Security**  
 Discusses **cloud security principles**, including **data protection, risk management, and best practices**.  
 Explores common security threats like **data breaches, unauthorized access, and DDoS attacks**.  
 🔗 [YouTube Link](https://youtu.be/0mSRlPbB2mc)  
 
-## **7. Mobile Cloud Computing - I**  
+## **7. Mobile Cloud Computing**  
 Introduces **Mobile Cloud Computing** and its role in **enhancing mobile device performance**.  
 Explores **offloading computing tasks to the cloud** and its challenges.  
 🔗 [YouTube Link](https://youtu.be/Mkid0fvGy4I)  
