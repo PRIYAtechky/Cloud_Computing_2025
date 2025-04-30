@@ -59,7 +59,7 @@ Discusses **Cloud Migration Strategies**, including **Rehost (Lift-and-Shift), R
 Dew Computing extends cloud capabilities to local devices, enabling **efficient processing and data synchronization**.  
 It reduces **latency and dependency on constant internet access**, making it ideal for real-time applications.  
 This approach enhances **computing power at the edge while maintaining cloud connectivity for storage and backup**.  
-🔗 [YouTube Link](https://youtu.be/) *(Link to be updated)*  
+🔗 [YouTube Link](https://youtu.be/OWxJAUvnYnE)
 
 ## **12. Cloud Computing in 5G Era**  
 Cloud computing plays a pivotal role in enabling **low-latency, high-speed services in 5G networks**.  
