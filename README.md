@@ -65,7 +65,7 @@ This approach enhances **computing power at the edge while maintaining cloud con
 Cloud computing plays a pivotal role in enabling **low-latency, high-speed services in 5G networks**.  
 It supports **network slicing, edge computing, and real-time data processing**, crucial for 5G use cases.  
 Together, 5G and cloud enhance **IoT, autonomous vehicles, smart cities**, and more with scalable infrastructure.  
-🔗 [YouTube Link](https://youtu.be/) *(Link to be updated)*  
+🔗 [YouTube Link](https://youtu.be/8I1HBd_nCto)
 
 ---
 
